@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\CreateMethod\bin\Debug\net8.0\CreateMethod.exe
+C:\Users\sumey\Source\repos\CreateMethod\bin\Debug\net8.0\CreateMethod.deps.json
+C:\Users\sumey\Source\repos\CreateMethod\bin\Debug\net8.0\CreateMethod.runtimeconfig.json
+C:\Users\sumey\Source\repos\CreateMethod\bin\Debug\net8.0\CreateMethod.dll
+C:\Users\sumey\Source\repos\CreateMethod\bin\Debug\net8.0\CreateMethod.pdb
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.dll
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\refint\CreateMethod.dll
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.pdb
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\CreateMethod.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\CreateMethod\obj\Debug\net8.0\ref\CreateMethod.dll
